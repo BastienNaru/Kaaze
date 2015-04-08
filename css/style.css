@@ -57,13 +57,13 @@ table {
     color: #4d4d4d;
 }
 #header a:hover{
-    color: #98b709;
+    color: #2ECCFA;
 }
 #navtop a{
     color: #4d4d4d;
 }
 #navtop a:hover{
-    color: #98b709;
+    color: #2ECCFA;
 }
 
 .reg .bleft {
@@ -122,7 +122,7 @@ table {
     text-decoration: none;
 }
 #social a.active, #social_b a.active, #social_mid a.active  {
-    color: #98b709;
+    color: #2ECCFA;
 }
 #social a img, #social_b a img, #social_mid a img  {
     display: block;
@@ -159,7 +159,7 @@ table {
 .slides {
     /*height: 470px;*/
     background-color: #7b7b7b;
-    /*border-bottom: 6px solid #98b709;*/
+    /*border-bottom: 6px solid #2ECCFA;*/
 }
 .search_top {
     background-color: #525252;
@@ -269,7 +269,7 @@ table {
     font-size: 14px;
     text-shadow: none !important;
     color: #fff;
-    background-color: #98b709;
+    background-color: #2ECCFA;
     background-image: -moz-linear-gradient(top, #b2c945, #99b70a);
     background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#b2c945), to(#99b70a));
     background-image: -webkit-linear-gradient(top, #b2c945, #99b70a);
@@ -616,7 +616,7 @@ table {
     opacity: 0.6;
 }
 .recents a {
-    color: #98b709;
+    color: #2ECCFA;
 }
 .proj_name .bleft {
     padding: 16px 13px 10px 13px;
@@ -799,8 +799,8 @@ input[type="radio"]:checked + label::before {
 }
 
 .line {
-    border-top:6px solid #98b709;
-    border-bottom:6px solid #98b709;
+    border-top:6px solid #2ECCFA;
+    border-bottom:6px solid #2ECCFA;
 }
 
 #top_slide {
@@ -969,10 +969,10 @@ div.upload_pic3 input {
        margin-bottom: 15px;
    }
 .green {
-    color: #98b709;
+    color: #2ECCFA;
 }
 .text-green {
-    color: #98b709;
+    color: #2ECCFA;
 }
 .gray  {
     color: #adadad;
@@ -1003,7 +1003,7 @@ div.upload_pic3 input {
       margin-bottom: 0;
 }
 .author {
-    color: #98b709;
+    color: #2ECCFA;
     position: relative;
     top: -4px;
     font-family: 'Titillium Web', sans-serif;
@@ -1270,7 +1270,7 @@ div.upload_pic3 input {
     background: url('../img/description/minus.png') left center no-repeat;
 	height: 20px;
 	padding-left:25px;
-	color: #98B709;
+	color: #2ECCFA;
 	font-family: 'Patua One',sans-serif;
 	cursor: pointer;
 	font-size: 14px;
@@ -1281,7 +1281,7 @@ div.upload_pic3 input {
     background: url('../img/description/plus.png') left center no-repeat;
 	height: 20px;
 	padding-left:25px;
-	color: #98B709;
+	color: #2ECCFA;
 	cursor: pointer;
 	font-size: 14px;
 	font-weight: normal;
@@ -1365,7 +1365,7 @@ div.upload_pic3 input {
 {
 	text-align: center;
 	border-bottom: 1px solid #e7e7e7;
-	color: #98B709;
+	color: #2ECCFA;
 	font-size: 45px;
 	font-weight: bold;
 	height: 50px;
@@ -1525,7 +1525,7 @@ div.upload_pic3 input {
 	background: url('../img/description/pencil.png')  left center no-repeat;
 	margin-top:15px;
 	margin-left: 20px;
-	color: #98B709;
+	color: #2ECCFA;
 	font-size: 14px;
 }
 
@@ -1722,7 +1722,7 @@ height: 48px;
 
 #asc_a_question .reply_user .name_and_date .reply_t
 {
-    color: #98B709;
+    color: #2ECCFA;
 	font-size: 16px; 
 }
 
@@ -1746,7 +1746,7 @@ height: 48px;
 
 #asc_a_question_form  h3 .h3_quest
 {
-    color: #98B709;
+    color: #2ECCFA;
 }
 
 #asc_a_question_form .form_question input.input_field
@@ -1964,7 +1964,7 @@ height: 48px;
     color: #FFF;
 }
 .selectbox li:hover {
-    background: #98b709;
+    background: #2ECCFA;
     color: #FFF;
 }
 .selectbox li.disabled {
@@ -2194,7 +2194,7 @@ ul#portfolio-list{ margin: 36px 0 0 0; padding: 0; list-style: none; }
     height: 34px;
     width: 30px;
     border: none;
-    color: white;
+    color: black;
     padding: 7px 0 0 7px;
     font-family: 'Titillium Web', sans-serif;
     font-weight: bold;
