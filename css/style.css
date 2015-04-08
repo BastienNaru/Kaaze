@@ -270,16 +270,16 @@ table {
     text-shadow: none !important;
     color: #fff;
     background-color: #2ECCFA;
-    background-image: -moz-linear-gradient(top, #b2c945, #99b70a);
-    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#b2c945), to(#99b70a));
-    background-image: -webkit-linear-gradient(top, #b2c945, #99b70a);
-    background-image: -o-linear-gradient(top, #b2c945, #99b70a);
-    background-image: linear-gradient(to bottom, #b2c945, #99b70a);
+    background-image: -moz-linear-gradient(top, #b2c945, #2ECCFA);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#b2c945), to(#2ECCFA));
+    background-image: -webkit-linear-gradient(top, #b2c945, #2ECCFA);
+    background-image: -o-linear-gradient(top, #b2c945, #2ECCFA);
+    background-image: linear-gradient(to bottom, #b2c945, #2ECCFA);
     background-repeat: repeat-x;
     border: none !important;
-    -pie-background: linear-gradient(to bottom, #b2c945 0%, #99b70a 100%);
-    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#b2c945', endColorstr='#99b70a')";
-    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr="#b2c945", endColorstr="#99b70a");
+    -pie-background: linear-gradient(to bottom, #b2c945 0%, #2ECCFA 100%);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#b2c945', endColorstr='#2ECCFA')";
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr="#b2c945", endColorstr="#2ECCFA");
 
 }
   .search .btn-group {
@@ -350,7 +350,7 @@ table {
 .green_line {
     height: 5px;
     float: left;
-    background-color: #99b70a;
+    background-color: #2ECCFA;
    }
 
 .white_line {
@@ -420,7 +420,7 @@ table {
     font-size: 1em;
     text-transform: uppercase;
     color: #ffffff;
-    background: url("../img/search-button-background.png") no-repeat left #a6c12a;
+    background: url("../img/search-button-background.png") no-repeat left #2ECCFA;
     cursor: pointer;
     padding-left: 43px;
     border: none;
@@ -2000,7 +2000,7 @@ height: 48px;
     z-index: 99999;
 }
  #Textus p{
-     background: #99b709;
+     background: #2ECCFA;
     margin-top: 10px;
      padding: 20px;
      color: #ffffff;
@@ -2172,7 +2172,7 @@ ul#portfolio-list{ margin: 36px 0 0 0; padding: 0; list-style: none; }
 #project12 .ui-slider-range,
 #project13 .ui-slider-range,
 #project14 .ui-slider-range{
-    background: #99b70a;
+    background: #2ECCFA;
 }
 
 #project1 .ui-slider-handle,
